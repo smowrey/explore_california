@@ -7,5 +7,6 @@ log/*.log.[0-9]
 assets/Photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
-
+.gitconfig
+.gitignore_global
 # question: would log/archive/access.log be ignored?
