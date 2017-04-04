@@ -1,5 +1,7 @@
 # Comment
 tempfile.txt
+tempfile2.txt
+tempfile3.txt
 *.zip
 *.gz
 log/*.log
@@ -9,5 +11,4 @@ assets/videos/
 !assets/videos/tour_*.mp4
 .gitconfig
 .gitignore_global
-tempfile2.txt
 # question: would log/archive/access.log be ignored?
